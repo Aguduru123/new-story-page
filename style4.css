@@ -1,0 +1,16 @@
+img{
+    height: 250px;
+    width: 350px;
+    border-radius: 0% 50% 0% 50%;
+    box box-shadow: 5px 5px 5px white;
+    margin-left: 500px;
+}
+body{
+    background: url("./kabaddi2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+P{
+    color: white;
+}

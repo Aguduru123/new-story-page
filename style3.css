@@ -1,0 +1,11 @@
+img{
+    height: 250px;
+    width: 350px;
+    margin-left: 500px;
+    border-radius: 30% 10% 30% 10%;
+}
+body{
+    background: url("./bb\ fro\ bb.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
